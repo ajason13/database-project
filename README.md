@@ -1,7 +1,6 @@
-# Basic Project
-## Basic Project Structure
+# Database Project
 
-*Default Structure for A Basic Project*
+*Learn about Java and databases*
 
 **Java 8**
 
